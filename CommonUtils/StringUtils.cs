@@ -7,7 +7,7 @@ using System.Web;
 
 namespace CommonUtils
 {
-	//字符串工具类
+	//字符串工具类 测试
     public static class StringUtils
     {
         private static readonly IProgramLog log = ProgramLogManager.GetLogger(typeof(StringUtils));
